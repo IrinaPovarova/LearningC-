@@ -1,0 +1,14 @@
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.AssemblyReference.cache
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Trainings\Automation\.NET\Source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.genruntimeconfig.cache
